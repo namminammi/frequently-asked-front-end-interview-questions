@@ -97,8 +97,3 @@ Random ones:
 - Graduation year
 - Agile/scrum/sprint time/peer code review
  
-
-Red flags:
-- Last min change of interview schedule
-- Sick interviewers/teammembers 
-- Are you single and/or have kids? This is a startup so we expect (... you can imagine the rest)
