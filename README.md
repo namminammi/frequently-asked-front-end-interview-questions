@@ -14,6 +14,7 @@ General:
 - How do you debug/refactor?
 - Working with a team vs. single developer
 - knowledge/experience in backend language (php, sql, MongoDB, etc)
+- How to deal with legacy code
 - Terminal commands
 - Experience with git/version control
 - Dependency injection
@@ -25,12 +26,10 @@ General:
 - quirks mode
 
 
-
 HTML:
-- How to make HTML5
+- HTML5 features
 - Use of meta tags
 - HTML vs XHTML
-
 
 
 CSS:
@@ -43,53 +42,63 @@ CSS:
 - div vs span
 - inline vs block
 - Advantages of internal/external style sheet
+- Pseudo-class
 
 
 Javascript:
+- Difference between == & ===
 - Closure
 - Modular
-- Vanilla JS vs. jQuery
-- Experience in using test tool (Jasmine/Karma)
+- Vanilla JS vs. jQuery vs. JS frameworks
+- Experience in using test tool (Jasmine/Karma/Mocha)
 - The advantage of loading scripts from different sources
+- The use of anonymous function
 - Single thread property
 - Objective vs Class oriented
-- Bubbling
+- Capturing/Bubbling
 - Prototype
 - Hoisting
 - What JS cannot do
 - inheritance
 - Currying
+- IIFE
+- document.ready vs window.onload
+- New features in ES6
+
 
 
 Web performance:
 - Measures to make website to load faster
  
 
-Questions that seemed to make the interviewers happy:
+Some questions to ask to the interviewer:
 - Workflow within company(agile/scrum/contact person)
-- New features in ES6
+- How long does it take to set up the system
+- What a newcomer is expected to achieve within 3 mo
+- the best thing about working in your company
+
 
 
 Languages/library/framework:
+- ReactJS
 - jQuery
 - Bootstrap
 - AngularJS
-- ReactJS
 - NodeJS
 - D3.js
-- MeteorJS
 - RoR
 - Python
 - php
-
+- Typescript
 
 
 
 
 Code assignment:
 - Turn a PSD file into website
-- Make XXX feature with Javascript without using a plugin
-- Online test
+- Make XXX feature with plain Javascript without using a plugin
+- Find difference between design and developed site
+- Online test (algorithm, peer coding)
 - Onsite test
 
 
