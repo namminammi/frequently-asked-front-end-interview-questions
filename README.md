@@ -12,7 +12,7 @@ General:
 - Responsive vs adaptive design
 - Where to insert style & script tag and why
 - How do you debug/refactor?
-- Working with a team vs. single developer
+- Working with a team vs. being single developer
 - knowledge/experience in backend language (php, sql, MongoDB, etc)
 - How to deal with legacy code
 - Terminal commands
