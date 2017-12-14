@@ -43,6 +43,7 @@ CSS:
 - inline vs block
 - Advantages of internal/external style sheet
 - Pseudo-class
+- The order of precedence in CSS
 
 
 Javascript:
@@ -64,6 +65,9 @@ Javascript:
 - IIFE
 - document.ready vs window.onload
 - New features in ES6
+- document.ready() vs window.onload()
+- Definition of a variable in JS
+- Difference b/w JS and other languages
 
 
 
