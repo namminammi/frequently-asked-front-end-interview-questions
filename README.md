@@ -12,7 +12,7 @@ General:
 - Responsive vs adaptive design
 - Where to insert style & script tag and why
 - How do you debug/refactor?
-- Working with a team vs. being single developer
+- Working with a team vs. being an independent developer
 - knowledge/experience in backend language (php, sql, MongoDB, etc)
 - How to deal with legacy code
 - Terminal commands
@@ -30,6 +30,7 @@ HTML:
 - HTML5 features
 - Use of meta tags
 - HTML vs XHTML
+- Semantic Markup
 
 
 CSS:
@@ -44,6 +45,7 @@ CSS:
 - Advantages of internal/external style sheet
 - Pseudo-class
 - The order of precedence in CSS
+- Specificity
 
 
 Javascript:
@@ -94,7 +96,6 @@ Languages/library/framework:
 - Python
 - php
 - Typescript
-
 
 
 
