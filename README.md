@@ -5,7 +5,7 @@ Frequently asked front end developer interview questions (in NYC area)
 General:
 - What makes you excited about working here?
 - Why did you apply for this position?
-- Your dream workplace
+- Your ideal workplace
 - Tell me about your experience (let's go over your resume).
 - Grade your skills in a programming language XXX in scale of 1-10 
 - Progressive Enhancement/Graceful degradation
@@ -66,27 +66,28 @@ Javascript:
 - Currying
 - IIFE
 - document.ready vs window.onload
-- New features in ES6
+- New features in ES8
 - document.ready() vs window.onload()
 - Definition of a variable in JS
 - Difference b/w JS and other languages
-
+- Recursion vs. Iteration
 
 
 Web performance:
 - Measures to make website to load faster
+- Big-O notation
  
-
+ 
 Some questions to ask to the interviewer:
 - Workflow within company(agile/scrum/contact person)
 - How long does it take to set up the system
 - What a newcomer is expected to achieve within 3 mo
-- the best thing about working in your company
-
+- Some of latest features/products that the company implemented 
 
 
 Languages/library/framework:
 - ReactJS
+- Vue
 - jQuery
 - Bootstrap
 - AngularJS
