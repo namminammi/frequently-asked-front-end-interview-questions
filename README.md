@@ -2,7 +2,7 @@
 Frequently asked front end developer interview questions (in NYC area)
 
 
-General:
+**General**:
 - What makes you excited about working here?
 - Why did you apply for this position?
 - Your ideal workplace
@@ -26,14 +26,14 @@ General:
 - quirks mode
 
 
-HTML:
+**HTML**:
 - HTML5 features
 - Use of meta tags
 - HTML vs XHTML
 - Semantic Markup
 
 
-CSS:
+**CSS**:
 - Box-model
 - Difference between position absolute/fixed
 - Advantages of CSS-preprocessors
@@ -48,7 +48,7 @@ CSS:
 - Specificity
 
 
-Javascript:
+**Javascript**:
 - Difference between == & ===
 - Closure
 - Modular
@@ -73,19 +73,19 @@ Javascript:
 - Recursion vs. Iteration
 
 
-Web performance:
+**Web performance**:
 - Measures to make website to load faster
 - Big-O notation
  
  
-Some questions to ask to the interviewer:
+**Some questions to ask to the interviewer**:
 - Workflow within company(agile/scrum/contact person)
 - How long does it take to set up the system
 - What a newcomer is expected to achieve within 3 mo
 - Some of latest features/products that the company implemented 
 
 
-Languages/library/framework:
+**Languages/library/framework**:
 - ReactJS
 - Vue
 - jQuery
@@ -99,8 +99,7 @@ Languages/library/framework:
 - Typescript
 
 
-
-Code assignment:
+**Code assignment**:
 - Turn a PSD file into website
 - Make XXX feature with plain Javascript without using a plugin
 - Find difference between design and developed site
@@ -108,7 +107,7 @@ Code assignment:
 - Onsite test
 
 
-Random ones:
+**Random ones**:
 - Graduation year
 - Agile/scrum/sprint time/peer code review
  
